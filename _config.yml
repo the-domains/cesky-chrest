@@ -1,7 +1,7 @@
 name: Český chřest
 favicon: null
-layout_spectrum: 0.5164628545753658
-typography_spectrum: 0.608790151309222
+layout_spectrum: 0.52128
+typography_spectrum: 0.3776
 title: Jediní pěstitelé toho nejlepšího českého chřestu
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.4438153156079352
+    - '#231f20'
+    - '#ffffff'
+    - '#999500'
+    - '#bbb9ba'
+    - '#6a6667'
+  brandStrength: 0.625
   lightness: 0.9153817549813539
-  saturation: 0.32894854922778904
-  rhythmicContrast: 0.9267371227033436
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
