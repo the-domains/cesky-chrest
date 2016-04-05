@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Otevírací doba: Po-Ne 7.00 – 17.00'
-datePublished: '2016-04-05T07:27:36.571Z'
-dateModified: '2016-04-04T11:12:30.897Z'
-title: "Zemědělský areál Hostín u\_Vojkovic"
+datePublished: '2016-04-05T07:28:02.977Z'
+dateModified: '2016-04-05T07:27:49.524Z'
+title: Kontakty
 author: []
 sourcePath: _posts/2016-04-04-zemedelsky-areal-hostin-u-vojkovic.md
 published: true
@@ -22,7 +22,11 @@ url: zemedelsky-areal-hostin-u-vojkovic/index.html
 _type: Article
 
 ---
-# Zemědělský areál Hostín u Vojkovic
+# Kontakty
+
+Jak nás kontaktovat, jak se dozvědět informace a jak se k nám dostat?
+
+**Zemědělský areál Hostín u Vojkovic**
 
 Otevírací doba: Po-Ne 7.00 -- 17.00
 
