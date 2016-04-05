@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Otevírací doba: Po-Ne 7.00 – 17.00'
-datePublished: '2016-04-05T07:33:13.293Z'
-dateModified: '2016-04-05T07:32:58.064Z'
+datePublished: '2016-04-05T08:09:54.972Z'
+dateModified: '2016-04-05T07:33:23.086Z'
 title: Kontakty
 author: []
 sourcePath: _posts/2016-04-04-zemedelsky-areal-hostin-u-vojkovic.md
