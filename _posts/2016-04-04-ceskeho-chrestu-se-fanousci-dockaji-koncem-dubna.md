@@ -6,23 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Milovníci a\_fanoušci našeho domácího Českého chřestu se dočkají své pochoutky vzhledem k\_počasí letos zřejmě koncem dubna. „K českému chřestu, který je vedle své výborné chuti plný vitamínů a\_minerálů a\_má výborné detoxikační účinky, si čeští zákazníci nacházejí rok od roku stále více cestu,“ říká k\_tomu náš jednatel Jiří Šafář."
-datePublished: '2016-04-04T11:23:08.917Z'
-dateModified: '2016-04-04T11:19:13.355Z'
+datePublished: '2016-04-05T07:32:37.169Z'
+dateModified: '2016-04-05T07:32:30.853Z'
 title: Českého chřestu se fanoušci dočkají koncem dubna
 author: []
+sourcePath: _posts/2016-04-04-ceskeho-chrestu-se-fanousci-dockaji-koncem-dubna.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-ceskeho-chrestu-se-fanousci-dockaji-koncem-dubna.md
-published: true
 url: ceskeho-chrestu-se-fanousci-dockaji-koncem-dubna/index.html
 _type: Article
 
 ---
 # Českého chřestu se fanoušci dočkají koncem dubna
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95def072-3084-4a1a-8de8-8f15c80a986d.jpg)
 
 Milovníci a fanoušci našeho domácího Českého chřestu se dočkají své pochoutky vzhledem k počasí letos zřejmě koncem dubna. „K českému chřestu, který je vedle své výborné chuti plný vitamínů a minerálů a má výborné detoxikační účinky, si čeští zákazníci nacházejí rok od roku stále více cestu," říká k tomu náš jednatel Jiří Šafář.  
 
@@ -44,6 +45,7 @@ pátek -- neděle 20.-22.5\. Chřestové slavnosti v moravských Ivančicích
 **[Slavnosti chřestu][2]**
 
 Více o chřestových slavnostech v Hostíně naleznete zde na našem webu a na facebookových stránkách[www.facebook.com/ceskychrest][3]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f04c1ab-e34a-4fd3-8bfd-79fa0c90234e.jpg)
 
 [0]: https://www.facebook.com/events/833974446711063/
 [1]: http://www.gastroslavnosti.cz/
