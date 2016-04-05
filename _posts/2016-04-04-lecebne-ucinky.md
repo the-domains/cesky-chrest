@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Chřest je vytrvalá bylina s\_oddenky a\_hodně redukovanými, „šupinovitými“ listy. Ve světě je známo skoro 300 druhů, na trhu se nabízí tři základní podoby: bílý (pevnější a\_větší), zelený (štíhlé špičaté výhonky) a\_fialový (obdoba zeleného s\_jemně nafialovělým zabarvením). Tato klasická zelenina pochází z\_Orientu, nejstarší doklady o\_pěstování chřestu formou nástěnných maleb byly nalezeny v\_egyptské pyramidě u\_ Sakkary a\_jsou staré více než 4500 let. Latinský název asparagus pochází z\_řeckého slova asparagos, jež bylo odvozeno ze staré perštiny. V\_Čechách jsou ideální podmínky pro jeho pěstování na Mělnicku."
-datePublished: '2016-04-04T11:13:58.985Z'
-dateModified: '2016-04-04T11:11:49.663Z'
+datePublished: '2016-04-05T07:26:42.895Z'
+dateModified: '2016-04-04T11:14:04.952Z'
 title: 'Léčebné účinky:'
 author: []
+sourcePath: _posts/2016-04-04-lecebne-ucinky.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-lecebne-ucinky.md
-published: true
 url: lecebne-ucinky/index.html
 _type: Article
 
