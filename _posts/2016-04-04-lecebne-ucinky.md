@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Chřest je vytrvalá bylina s\_oddenky a\_hodně redukovanými, „šupinovitými“ listy. Ve světě je známo skoro 300 druhů, na trhu se nabízí tři základní podoby: bílý (pevnější a\_větší), zelený (štíhlé špičaté výhonky) a\_fialový (obdoba zeleného s\_jemně nafialovělým zabarvením). Tato klasická zelenina pochází z\_Orientu, nejstarší doklady o\_pěstování chřestu formou nástěnných maleb byly nalezeny v\_egyptské pyramidě u\_ Sakkary a\_jsou staré více než 4500 let. Latinský název asparagus pochází z\_řeckého slova asparagos, jež bylo odvozeno ze staré perštiny. V\_Čechách jsou ideální podmínky pro jeho pěstování na Mělnicku."
-datePublished: '2016-04-05T07:26:42.895Z'
-dateModified: '2016-04-04T11:14:04.952Z'
-title: 'Léčebné účinky:'
+description: "Chřest je dobrým zdrojem vlákniny. Je bohatý na vitamíny: beta-karoten, vitamíny B, vitamín C, E a\_K, kyselinu listovou, asparagovou, esenciální oleje, riboflavin. Tato kombinace působí doslova jako elixír mládí. Ze stopových prvků obsahuje vápník, fosfor, hořčík, draslík, zinek, železo, jód. Má nízký obsah cukrů a\_nízkou energetickou hodnotu (pouhých 25 kcal/85 Kj na 100g!), je tedy vhodný i\_pro šetrné diety."
+datePublished: '2016-04-05T08:10:44.560Z'
+dateModified: '2016-04-05T07:26:54.334Z'
+title: O chřestu
 author: []
 sourcePath: _posts/2016-04-04-lecebne-ucinky.md
 published: true
@@ -22,6 +22,10 @@ url: lecebne-ucinky/index.html
 _type: Article
 
 ---
+# O chřestu
+
+Vše, co jste chtěli vědět o chřestu, ale báli jste se zeptat.
+
 Chřest je vytrvalá bylina s oddenky a hodně redukovanými, „šupinovitými" listy. Ve světě je známo skoro 300 druhů, na trhu se nabízí tři základní podoby: bílý (pevnější a větší), zelený (štíhlé špičaté výhonky) a fialový (obdoba zeleného s jemně nafialovělým zabarvením). Tato klasická zelenina pochází z Orientu, nejstarší doklady o pěstování chřestu formou nástěnných maleb byly nalezeny v egyptské pyramidě u  Sakkary a jsou staré více než 4500 let. Latinský název asparagus pochází z řeckého slova asparagos, jež bylo odvozeno ze staré perštiny. V Čechách jsou ideální podmínky pro jeho pěstování na Mělnicku.
 
 Chřest je dobrým zdrojem vlákniny. Je bohatý na vitamíny: beta-karoten, vitamíny B, vitamín C, E a K, kyselinu listovou, asparagovou, esenciální oleje, riboflavin. Tato kombinace působí doslova jako elixír mládí. Ze stopových prvků obsahuje vápník, fosfor, hořčík, draslík, zinek, železo, jód. Má nízký obsah cukrů a nízkou energetickou hodnotu (pouhých 25 kcal/85 Kj na 100g!), je tedy vhodný i pro šetrné diety.
