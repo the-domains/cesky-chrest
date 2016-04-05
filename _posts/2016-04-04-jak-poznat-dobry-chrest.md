@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Sezóna chřestu u\_nás trvá zhruba od poloviny dubna do konce června. I\_mimo tuto dobu chřest seženete, ale nebude český, čili bude méně čerstvý.Čerstvě sklizený bílý chřest poznáte podle hodně pevných, sevřených hlaviček a\_lesklého povrchu. Při naříznutí vytéká bílá míza.Čerstvý bílý chřest se nedá ohnout, praskne. Naopak, pokud je chřest gumový, nekažte si chuť a\_nekupujte ho. U\_zeleného lehký ohyb naopak není na škodu."
-datePublished: '2016-04-04T11:13:24.488Z'
-dateModified: '2016-04-04T11:11:45.140Z'
-title: Jak poznat dobrý chřest?
+datePublished: '2016-04-05T08:10:22.613Z'
+dateModified: '2016-04-05T07:34:21.129Z'
+title: Rady a návody
 author: []
+sourcePath: _posts/2016-04-04-jak-poznat-dobry-chrest.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-jak-poznat-dobry-chrest.md
-published: true
 url: jak-poznat-dobry-chrest/index.html
 _type: Article
 
 ---
+# Rady a návody
+
 # Jak poznat dobrý chřest?
 
 Sezóna chřestu u nás trvá zhruba od poloviny dubna do konce června. I mimo tuto dobu chřest seženete, ale nebude český, čili bude méně čerstvý.  
