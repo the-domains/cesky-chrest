@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Otevírací doba: Po-Ne 7.00 – 17.00'
-datePublished: '2016-04-04T11:12:25.485Z'
-dateModified: '2016-04-04T11:10:35.096Z'
+datePublished: '2016-04-05T07:27:36.571Z'
+dateModified: '2016-04-04T11:12:30.897Z'
 title: "Zemědělský areál Hostín u\_Vojkovic"
 author: []
+sourcePath: _posts/2016-04-04-zemedelsky-areal-hostin-u-vojkovic.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-zemedelsky-areal-hostin-u-vojkovic.md
-published: true
 url: zemedelsky-areal-hostin-u-vojkovic/index.html
 _type: Article
 
